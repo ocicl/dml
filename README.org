@@ -4,7 +4,7 @@ Diagram Make Language for common lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/cuichaox/dml.git   |
-| commit  | 6f71a2c  |
+| commit  | a5301b5  |
 | systems | dml |
 |---------+-------------------------------------------|
 
